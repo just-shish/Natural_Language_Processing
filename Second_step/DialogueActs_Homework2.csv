@@ -1,0 +1,101 @@
+sentence,annotator one,annotator two
+look for food that could have caused sickness,N,N
+thanks,N,N
+no,N,N
+what are food transmitted disases,N,N
+how do you get ebola,N,N
+yes,N,N
+ok,N,N
+i will thanks,N,N
+do you think it has something to do with food,N,N
+i was thinking that it was a viues spread from one person to another,N,N
+what is a viris,N,N
+howdy,N,N
+hows it going home dog,R,R
+cool cool,R,N
+how can i tell kim to move?,N,N
+what caauses this disease?,N,N
+i have had no hypotheses,N,N
+\\w,R,N
+/?,R,N
+Do you like prince?,R,R
+what is anthrax?,N,N
+you should know,R,N
+do you know anything?,L,L
+you could answer me,R,L
+how much wood could a wood chuck chuck if a woodchuck could chuck wood?,L,L
+what is the soure?,N,N
+ARE YOU HELPFUL,L,L
+Yeah,N,N
+Thanks see ya,N,N
+Some of their symptoms,N,N
+i think ebola may be a contender,N,N
+ok<3,R,R
+see ya,R,N
+ok>>>>>,R,N
+i was exploring for more clues in my diagnosis worksheet,N,N
+ok,N,N
+NO,R,R
+it may be the sandwich but there are more food that i have to diagnose,N,N
+Hi i dont remember i keep trying it and its not working,N,N
+the only thing i diagnosed was an egg,N,N
+can you help,N,L
+I DONT HAVE A PREDICTION,R,R
+tell me what i to do,N,N
+NO,R,R
+i JUST LOOKED AT SOME POSTERS,R,R
+ok sure u sick girl,R,R
+ok,N,N
+i havent learned anything,N,N
+i hate you,R,R
+ummmmm,R,N
+sjutup,R,R
+sHUTUP,R,R
+SHUTUP,R,R
+great,N,N
+thank you buddy,R,R
+hello,N,N
+awesome,R,N
+Respond,N,N
+whats the answer?,N,N
+that was not my question,R,N
+aw,R,N
+i cant move,N,N
+dont talk to me,R,N
+w,N,L
+what u want,R,R
+i dont know,N,N
+im ok,N,N
+no,R,N
+no,R,N
+yes,N,N
+ok,N,N
+yes i have come up with new conclusions,N,N
+yeah,N,N
+I think it's the flu,N,N
+yep,N,N
+"okay, Thanks",N,N
+am I sick,N,N
+Can you help me?,N,N
+"I think I have tested everything, could you please give me a hint?",N,N
+sure,N,N
+hi,N,N
+Great!,R,R
+Pathogens and mutagens,N,N
+whatever,R,N
+kay,N,N
+could you tell me what I should test?,N,N
+Can you give me a hint,N,N
+Can you give me a hint?,N,N
+Can you talk to me?,L,N
+Hi,N,N
+They are goeing great! Can you give me a hint?,R,R
+Mabey in the food?,N,N
+I can,N,N
+What do you know?,N,N
+Yes,N,N
+I can't find anything that tests positive,N,N
+i dont like u,R,R
+maybe,N,N
+no,R,N
+answer me immediately i am in need of major hel,R,N
