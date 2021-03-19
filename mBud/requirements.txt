@@ -23,7 +23,7 @@ ipykernel==4.6.1
 ipython==5.5.0
 ipython-genutils==0.2.0
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jupyter-client==5.1.0
 jupyter-core==4.3.0
 lxml==4.1.0
