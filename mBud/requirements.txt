@@ -46,7 +46,7 @@ python-mimeparse==1.6.0
 pytz==2017.3
 pyzmq==16.0.2
 requests==2.18.4
-rsa==3.4.2
+rsa==4.7.1
 scandir==1.6
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
